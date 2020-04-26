@@ -7,6 +7,7 @@ Initially supported by most European partners. However, several partners have wi
 
 On April 26 only French Government is still supporting the development of a National Contact tracing app (STOPCOVID) based on PEPP-PT protocol (ROBERT/INRIA).
 
+\
 There are neither demo/public backend for test purposes nor available backend source code.
 
 App source code is partially deprecated (old dependencies) and broken, since it's also missing the required Telemetry classes. 
