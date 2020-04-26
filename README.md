@@ -3,9 +3,11 @@ Contact Tracing - PEPP-PT
 
 Pan-European Privacy-Preserving Proximity Tracing Framework. Centralized Architecture.
 
-Initially supported by several European partners. However, several partners have withdrawn after the publication of the EPDB guidelines and the confirmation by Apple + Google that the new "Exposure Notification" APIs for Contact Tracing won't support centralized architectures.
+Initially supported by most European partners. However, several partners have withdrawn after the publication of the EPDB guidelines & the confirmation by Apple + Google that the new "Exposure Notification" APIs for BLE Contact Tracing won't support centralized architectures.
 
 On April 26 only French Government is still supporting the development of a National Contact tracing app (STOPCOVID) based on PEPP-PT protocol (ROBERT/INRIA).
+
+There is no demo/public backend for test purposes & no available backend source code.
 
 Source code | https://github.com/pepp-pt/
 ------------|----------------------------
