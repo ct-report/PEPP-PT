@@ -12,7 +12,7 @@ There are neither demo/public backend for test purposes nor available backend so
 
 App source code is partially deprecated (old dependencies) and broken, since it's also missing the required Telemetry classes. 
 
-Therefore, provided app-sample isn't fully-functional (disabled Telemetry + dummy Firebase instance).
+Therefore, the provided app-sample isn't fully-functional (disabled Telemetry + dummy Firebase instance).
 
 
 Source code | https://github.com/pepp-pt/
